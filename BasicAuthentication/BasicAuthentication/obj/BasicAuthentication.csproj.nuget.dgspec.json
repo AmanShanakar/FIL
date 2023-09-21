@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj": {}
+    "D:\\Git_FIL\\FIL\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj": {}
   },
   "projects": {
-    "D:\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj": {
+    "D:\\Git_FIL\\FIL\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
+        "projectUniqueName": "D:\\Git_FIL\\FIL\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
         "projectName": "BasicAuthentication",
-        "projectPath": "D:\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
+        "projectPath": "D:\\Git_FIL\\FIL\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
         "packagesPath": "C:\\Users\\Abylle\\.nuget\\packages\\",
-        "outputPath": "D:\\BasicAuthentication\\BasicAuthentication\\obj\\",
+        "outputPath": "D:\\Git_FIL\\FIL\\BasicAuthentication\\BasicAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abylle\\AppData\\Roaming\\NuGet\\NuGet.Config",
