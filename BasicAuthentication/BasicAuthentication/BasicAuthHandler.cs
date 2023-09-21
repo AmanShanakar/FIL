@@ -6,11 +6,11 @@ namespace BasicAuthentication
     {
         //RequestDelegate is a delegate used to represent middleware in ASP.NET Core
         private readonly RequestDelegate next;
-        private readonly string relm;
-        public BasicAuthHandler(RequestDelegate next , string relm)
+        private readonly string realm;
+        public BasicAuthHandler(RequestDelegate next , string realm)
         {
             this.next = next;
-            this.relm = relm;
+            this.realm = realm;
         }
 
         public async Task InvokeAsync(HttpContext context)  // Used to handle HTTP requests

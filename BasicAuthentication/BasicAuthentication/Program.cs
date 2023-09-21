@@ -18,7 +18,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //UseMiddleware is used to add middleware components to the pipeline annd type of middleware is BasicAuthHandler
-app.UseMiddleware<BasicAuthHandler>("Test");
+app.UseMiddleware<BasicAuthHandler>("Test"); 
 
 app.UseHttpsRedirection();
 
