@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F8OF7yE+W65U7xV+S9NOhsdEnmdVbdNefOMtDbwRJwVzjvRkNg4awNattw4pp4Yl+GZrUMauzv6qrZ6RA52kbw==",
+  "success": true,
+  "projectFilePath": "D:\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
