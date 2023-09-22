@@ -846,11 +846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication.csproj",
+      "projectUniqueName": "D:\\Git_FIL\\FIL\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication.csproj",
       "projectName": "JWT_TokenBased_Authentication",
-      "projectPath": "D:\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication.csproj",
+      "projectPath": "D:\\Git_FIL\\FIL\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication.csproj",
       "packagesPath": "C:\\Users\\Abylle\\.nuget\\packages\\",
-      "outputPath": "D:\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\obj\\",
+      "outputPath": "D:\\Git_FIL\\FIL\\JWT_TokenBased_Authentication\\JWT_TokenBased_Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abylle\\AppData\\Roaming\\NuGet\\NuGet.Config",
