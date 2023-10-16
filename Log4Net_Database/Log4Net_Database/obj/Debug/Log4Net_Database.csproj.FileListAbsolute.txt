@@ -1,0 +1,13 @@
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\bin\Debug\Log4Net_Database.exe.config
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\bin\Debug\Log4Net_Database.exe
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\bin\Debug\Log4Net_Database.pdb
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\bin\Debug\log4net.dll
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\bin\Debug\log4net.xml
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.csproj.AssemblyReference.cache
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.Form1.resources
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.Properties.Resources.resources
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.csproj.GenerateResource.cache
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.csproj.CoreCompileInputs.cache
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.csproj.CopyComplete
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.exe
+D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\obj\Debug\Log4Net_Database.pdb

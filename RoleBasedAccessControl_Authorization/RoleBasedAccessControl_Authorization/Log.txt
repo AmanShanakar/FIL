@@ -1,0 +1,12 @@
+﻿2023-09-29 10:08:07,576 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:09:21,813 [1] ERROR RoleBasedAccessControl_Authorization.Form1 - Login Failed
+2023-09-29 10:17:10,259 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:18:04,115 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:23:29,621 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:24:11,270 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:30:23,528 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-09-29 10:32:02,084 [1] ERROR RoleBasedAccessControl_Authorization.Form1 - Login Failed
+2023-09-29 11:41:04,515 [1] ERROR RoleBasedAccessControl_Authorization.Form1 - Login Failed
+2023-09-29 11:41:24,760 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-10-05 10:21:52,863 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully
+2023-10-05 10:22:06,016 [1] INFO  RoleBasedAccessControl_Authorization.Form1 - Login successfully

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using log4net;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -13,6 +14,12 @@ namespace RoleBasedAccessControl_Authorization
             InitializeComponent();
         }
 
+        ILog log;
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            log4net.Config.XmlConfigurator.Configure();
+            log = LogManager.GetLogger(typeof(Form1));
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             try
@@ -35,12 +42,15 @@ namespace RoleBasedAccessControl_Authorization
                         MyConnection.type = "U";
                     }
 
+                    log.Info("Login successfully");
+
                     Form2 f = new Form2();
                     f.Show();
                     this.Hide();
                 }
                 else
                 {
+                    log.Error("Login Failed");
                     MessageBox.Show("Error Login");
                 }
             }

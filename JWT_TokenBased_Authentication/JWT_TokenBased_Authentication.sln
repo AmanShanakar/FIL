@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_TokenBased_Authentication", "JWT_TokenBased_Authentication\JWT_TokenBased_Authentication.csproj", "{C61272FC-6DC8-423D-AF3E-67E797F3B1FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWT_TokenBased_Authentication", "JWT_TokenBased_Authentication\JWT_TokenBased_Authentication.csproj", "{C61272FC-6DC8-423D-AF3E-67E797F3B1FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockTesting_TokenBased_Authentication", "MockTesting_TokenBased_Authentication\MockTesting_TokenBased_Authentication.csproj", "{BFB13153-EF27-4844-90C1-ABF5CFFB9AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClientLib", "ApiClientLib\ApiClientLib.csproj", "{BD9AB253-F7C9-4854-8E45-E8BCAFB536AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{BDFE96D1-BDAB-4388-8B92-AE357728DC01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{C61272FC-6DC8-423D-AF3E-67E797F3B1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C61272FC-6DC8-423D-AF3E-67E797F3B1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C61272FC-6DC8-423D-AF3E-67E797F3B1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB13153-EF27-4844-90C1-ABF5CFFB9AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB13153-EF27-4844-90C1-ABF5CFFB9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB13153-EF27-4844-90C1-ABF5CFFB9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB13153-EF27-4844-90C1-ABF5CFFB9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9AB253-F7C9-4854-8E45-E8BCAFB536AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9AB253-F7C9-4854-8E45-E8BCAFB536AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9AB253-F7C9-4854-8E45-E8BCAFB536AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9AB253-F7C9-4854-8E45-E8BCAFB536AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFE96D1-BDAB-4388-8B92-AE357728DC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE96D1-BDAB-4388-8B92-AE357728DC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE96D1-BDAB-4388-8B92-AE357728DC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE96D1-BDAB-4388-8B92-AE357728DC01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

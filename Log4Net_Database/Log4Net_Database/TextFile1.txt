@@ -1,0 +1,21 @@
+﻿
+2023-09-28 18:14:56,210 [1] INFO  Log4Net_Database.Form1 - Your data has been successfully saved.
+2023-09-28 18:14:58,725 [1] ERROR Log4Net_Database.Form1 - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4Net_Database.Form1.button2_Click(Object sender, EventArgs e) in D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\Form1.cs:line 33
+2023-09-28 18:22:06,842 [1] INFO  Log4Net_Database.Form1 - Your data has been successfully saved.
+2023-09-28 18:22:07,966 [1] ERROR Log4Net_Database.Form1 - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4Net_Database.Form1.button2_Click(Object sender, EventArgs e) in D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\Form1.cs:line 33
+2023-09-29 10:26:13,475 [1] INFO  Log4Net_Database.Form1 - Your data has been successfully saved.
+2023-09-29 10:26:14,706 [1] ERROR Log4Net_Database.Form1 - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4Net_Database.Form1.button2_Click(Object sender, EventArgs e) in D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\Form1.cs:line 33
+2023-10-16 11:25:02,198 [1] INFO  Log4Net_Database.Form1 - Your data has been successfully saved.
+2023-10-16 11:25:02,942 [1] ERROR Log4Net_Database.Form1 - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4Net_Database.Form1.button2_Click(Object sender, EventArgs e) in D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\Form1.cs:line 33
+2023-10-16 11:25:03,441 [1] INFO  Log4Net_Database.Form1 - Your data has been successfully saved.
+2023-10-16 11:25:03,941 [1] ERROR Log4Net_Database.Form1 - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at Log4Net_Database.Form1.button2_Click(Object sender, EventArgs e) in D:\Git_FIL\FIL\Log4Net_Database\Log4Net_Database\Form1.cs:line 33
