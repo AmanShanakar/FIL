@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MZM21DKZA90TRpWK+YxG6hXgAg/uJ8u0aWJ8Lfj6bbVqFghOf7wiJbI0ugkdBiNQTO+s0Z/otXj5ps4frhypSw==",
+  "dgSpecHash": "V4G/mDEhaHzyMa5SBWmWSgeH/3ihC7XTenFql5FJuUPTJb+GIZ/GEIpLqznI3Kdb4/MgocIS3XcQX+OuF3+8Ow==",
   "success": true,
   "projectFilePath": "D:\\Git_FIL\\FIL\\JWT_TokenBased_Authentication\\ApiClientLib\\ApiClientLib.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

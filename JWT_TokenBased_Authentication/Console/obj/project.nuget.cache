@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bvscu3DVcIaId4uaTkl4HJTxb0JzYYfUHFoQdnJvIaNefrnHWWvtA93ow5BMG/EQzCyRIMd55AQEYZs/JjPA4A==",
+  "dgSpecHash": "NOlMf1Nm4jW8j8QY9b7WMyw3IxOdLqBGHxZ69tboED5njpSx17CDSXpcdO+mPeOiesvstPi6g2Et5jRS/BTMGw==",
   "success": true,
   "projectFilePath": "D:\\Git_FIL\\FIL\\JWT_TokenBased_Authentication\\Console\\Console.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abylle\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Abylle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

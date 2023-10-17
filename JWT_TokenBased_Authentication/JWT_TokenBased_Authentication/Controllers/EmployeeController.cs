@@ -11,10 +11,24 @@ namespace JWT_TokenBased_Authentication.Controllers
     public class EmployeeController : ControllerBase
     {
         private static readonly ILog Logger = Log4NetHelper.GetLogger(typeof(LoginController));
-        /*public EmployeeController(ILogger<EmployeeController> logger)
+        private List<Employee> employees; 
+        public EmployeeController()
         {
-            Logger = logger;
-        }*/
+            employees = new List<Employee>
+            {
+                new Employee { Id = 1, FirstName = "Aman", LastName = "Shankar", Department = "Intern", HireDate = new DateTime(2023, 8, 14) },
+                new Employee { Id = 2, FirstName = "Abhimanyu", LastName = "Singh", Department = "IT", HireDate = new DateTime(2019, 8, 10) },
+                new Employee { Id = 3, FirstName = "Madhav", LastName = "Tilak", Department = "Domain", HireDate = new DateTime(2019, 8, 10)},
+                new Employee { Id = 4, FirstName = "Atulya", LastName = "Karn", Department = "Hr", HireDate = new DateTime(2019, 8, 10)},
+            };
+        }
+
+        [HttpGet]
+        [Route("GetAllEmployee")]
+        public ActionResult<IEnumerable<Employee>> GetAllEmployees()
+        {
+            return Ok(employees); // Return a list of all employees
+        }
 
         [Authorize]
         [HttpGet]

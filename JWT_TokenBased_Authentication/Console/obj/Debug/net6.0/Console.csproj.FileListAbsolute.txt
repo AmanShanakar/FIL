@@ -39,3 +39,4 @@ D:\Git_FIL\FIL\JWT_TokenBased_Authentication\Console\bin\Debug\net6.0\System.Sec
 D:\Git_FIL\FIL\JWT_TokenBased_Authentication\Console\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Git_FIL\FIL\JWT_TokenBased_Authentication\Console\bin\Debug\net6.0\JWT_TokenBased_Authentication.dll
 D:\Git_FIL\FIL\JWT_TokenBased_Authentication\Console\bin\Debug\net6.0\JWT_TokenBased_Authentication.pdb
+D:\Git_FIL\FIL\JWT_TokenBased_Authentication\Console\bin\Debug\net6.0\Newtonsoft.Json.dll

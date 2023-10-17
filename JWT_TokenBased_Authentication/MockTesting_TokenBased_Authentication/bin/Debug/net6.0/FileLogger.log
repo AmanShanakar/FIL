@@ -6,3 +6,5 @@
 [18:27:31,825],[INFO][Log Info :- Without Authentication]
 [18:28:05,357],[INFO][Log Info :- Authenticated with JWT]
 [18:28:05,367],[INFO][Log Info :- Without Authentication]
+[17:15:16,679],[INFO][Log Info :- Authenticated with JWT]
+[17:15:16,689],[INFO][Log Info :- Without Authentication]

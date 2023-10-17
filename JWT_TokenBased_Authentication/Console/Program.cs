@@ -1,4 +1,6 @@
 ﻿using ApiClientLib;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 
 class Program
@@ -12,7 +14,11 @@ class Program
         try
         {
             var result = apiClient.GetDetailsAsync(); //Details();
-            Console.WriteLine("API Response: " + result);
+            Console.WriteLine("API Response For Details: " + result);
+
+            string jsonResponse = apiClient.GetEmployeeDetailsAsync(); //Employee List
+            string formattedJson = JValue.Parse(jsonResponse).ToString(Formatting.Indented);
+            Console.WriteLine("API Response For Employee List: "+ '\n' + formattedJson);
         }
         catch (HttpRequestException ex)
         {
