@@ -17,7 +17,7 @@ class Program
             Console.WriteLine("API Response For Details: " + result);
 
             string jsonResponse = apiClient.GetEmployeeDetailsAsync(); //Employee List
-            string formattedJson = JValue.Parse(jsonResponse).ToString(Formatting.Indented);
+            string formattedJson = JValue.Parse(jsonResponse).ToString();
             Console.WriteLine("API Response For Employee List: "+ '\n' + formattedJson);
         }
         catch (HttpRequestException ex)
