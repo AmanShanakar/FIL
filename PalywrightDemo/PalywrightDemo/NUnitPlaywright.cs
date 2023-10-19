@@ -1,5 +1,4 @@
 // Here used Playwright.NUnit by inheriting PageTest
-using Microsoft.Playwright;
 using Microsoft.Playwright.NUnit;
 
 namespace PalywrightDemo
@@ -10,6 +9,7 @@ namespace PalywrightDemo
         public async Task Test1()
         {
             // PageTest is Inheriting from ContextTest & that ContextTest Inheriting from BrowserTest & that BrowserTest Inheriting from Playwright
+            // So no need to bother about Creating Playwright, browser and also page
 
             await Page.GotoAsync("http://www.eaapp.somee.com"); //Navigation to the particular site
             await Page.ClickAsync("text=Login");

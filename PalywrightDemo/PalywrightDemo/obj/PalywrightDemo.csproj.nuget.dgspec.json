@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Implementation\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj": {}
+    "D:\\Git_FIL\\FIL\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj": {}
   },
   "projects": {
-    "D:\\Implementation\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj": {
+    "D:\\Git_FIL\\FIL\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Implementation\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj",
+        "projectUniqueName": "D:\\Git_FIL\\FIL\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj",
         "projectName": "PalywrightDemo",
-        "projectPath": "D:\\Implementation\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj",
+        "projectPath": "D:\\Git_FIL\\FIL\\PalywrightDemo\\PalywrightDemo\\PalywrightDemo.csproj",
         "packagesPath": "C:\\Users\\Abylle\\.nuget\\packages\\",
-        "outputPath": "D:\\Implementation\\PalywrightDemo\\PalywrightDemo\\obj\\",
+        "outputPath": "D:\\Git_FIL\\FIL\\PalywrightDemo\\PalywrightDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abylle\\AppData\\Roaming\\NuGet\\NuGet.Config",
